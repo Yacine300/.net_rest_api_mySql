@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\servicelayer\\jwt\\jwts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\servicelayer\\jwt\\jwts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\servicelayer\\jwt\\ijwts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\servicelayer\\jwt\\ijwts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\repositorylayer\\apirl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\repositorylayer\\apirl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\controllers\\firstapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\controllers\\firstapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\servicelayer\\iapisl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\servicelayer\\iapisl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\servicelayer\\apisl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\servicelayer\\apisl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\commenlayer\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\commenlayer\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\repositorylayer\\iapirl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\repositorylayer\\iapirl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\firstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\firstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\sqlqeuries.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\sqlqeuries.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\commenutility\\sqlqeuries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\commenutility\\sqlqeuries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|c:\\users\\utilisateur\\source\\repos\\firstapi\\firstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B62AB166-F9D9-4E04-BF25-FFA93A134E56}|firstApi\\firstApi.csproj|solutionrelative:firstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtS.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\jwt\\JwtS.cs",
+              "RelativeDocumentMoniker": "firstApi\\ServiceLayer\\jwt\\JwtS.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\jwt\\JwtS.cs",
+              "RelativeToolTip": "firstApi\\ServiceLayer\\jwt\\JwtS.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:47:58.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IjwtS.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\jwt\\IjwtS.cs",
+              "RelativeDocumentMoniker": "firstApi\\ServiceLayer\\jwt\\IjwtS.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\jwt\\IjwtS.cs",
+              "RelativeToolTip": "firstApi\\ServiceLayer\\jwt\\IjwtS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:47:21.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiRL.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\RepositoryLayer\\ApiRL.cs",
+              "RelativeDocumentMoniker": "firstApi\\RepositoryLayer\\ApiRL.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\RepositoryLayer\\ApiRL.cs",
+              "RelativeToolTip": "firstApi\\RepositoryLayer\\ApiRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:01:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApiSL.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\IApiSL.cs",
+              "RelativeDocumentMoniker": "firstApi\\ServiceLayer\\IApiSL.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\IApiSL.cs",
+              "RelativeToolTip": "firstApi\\ServiceLayer\\IApiSL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:55:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\appsettings.json",
+              "RelativeDocumentMoniker": "firstApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\appsettings.json",
+              "RelativeToolTip": "firstApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T21:07:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\Program.cs",
+              "RelativeDocumentMoniker": "firstApi\\Program.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\Program.cs",
+              "RelativeToolTip": "firstApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:53:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\CommenLayer\\Model\\User.cs",
+              "RelativeDocumentMoniker": "firstApi\\CommenLayer\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\CommenLayer\\Model\\User.cs",
+              "RelativeToolTip": "firstApi\\CommenLayer\\Model\\User.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAjwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:42:01.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "firstApi.http",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\firstApi.http",
+              "RelativeDocumentMoniker": "firstApi\\firstApi.http",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\firstApi.http",
+              "RelativeToolTip": "firstApi\\firstApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-06T14:01:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiSL.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\ApiSL.cs",
+              "RelativeDocumentMoniker": "firstApi\\ServiceLayer\\ApiSL.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\ServiceLayer\\ApiSL.cs",
+              "RelativeToolTip": "firstApi\\ServiceLayer\\ApiSL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:59:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstApiController.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\Controllers\\FirstApiController.cs",
+              "RelativeDocumentMoniker": "firstApi\\Controllers\\FirstApiController.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\Controllers\\FirstApiController.cs",
+              "RelativeToolTip": "firstApi\\Controllers\\FirstApiController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:49:07.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApiRL.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\RepositoryLayer\\IApiRL.cs",
+              "RelativeDocumentMoniker": "firstApi\\RepositoryLayer\\IApiRL.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\RepositoryLayer\\IApiRL.cs",
+              "RelativeToolTip": "firstApi\\RepositoryLayer\\IApiRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:01:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SqlQeuries.cs",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\CommenUtility\\SqlQeuries.cs",
+              "RelativeDocumentMoniker": "firstApi\\CommenUtility\\SqlQeuries.cs",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\CommenUtility\\SqlQeuries.cs",
+              "RelativeToolTip": "firstApi\\CommenUtility\\SqlQeuries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:34:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sqlQeuries.xml",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\sqlQeuries.xml",
+              "RelativeDocumentMoniker": "firstApi\\sqlQeuries.xml",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\sqlQeuries.xml",
+              "RelativeToolTip": "firstApi\\sqlQeuries.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-05T23:36:29.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "firstApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utilisateur\\source\\repos\\firstApi\\firstApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "firstApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T01:08:55.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

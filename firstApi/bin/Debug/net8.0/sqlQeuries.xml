@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Queries>
+	<AddInformation>
+		<![CDATA[
+        INSERT INTO first_api.users (UserName, Email, PhoneNumber, Gender, Salary , Password)
+        VALUES (@UserName, @Email, @PhoneNumber, @Gender, @Salary , @Password)
+        ]]>
+	</AddInformation>
+	<Login>
+		<![CDATA[
+        SELECT * FROM first_api.users WHERE Email = @Email AND Password = @Password
+        ]]>
+	</Login>
+</Queries>
