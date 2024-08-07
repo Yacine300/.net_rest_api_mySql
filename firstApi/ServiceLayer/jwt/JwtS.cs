@@ -16,18 +16,24 @@ namespace firstApi.ServiceLayer.jwt
 
         public string GenerateJwtToken(string email)
         {
-            var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
-            var tokenDescriptor = new SecurityTokenDescriptor
+              var tokenHandler = new JwtSecurityTokenHandler();
+              var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
+            if (key.Length < 32)
             {
-                Subject = new ClaimsIdentity(new[]
-                {
-                new Claim(ClaimTypes.Email, email)
-            }),
-                Expires = DateTime.UtcNow.AddDays(7),
-                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
-            };
-            var token = tokenHandler.CreateToken(tokenDescriptor);
+                throw new ArgumentException("The key must be at least 32 bytes long.", nameof(key));
+            }
+
+            var tokenDescriptor = new SecurityTokenDescriptor
+
+              {
+                  Subject = new ClaimsIdentity(new[]
+                  {
+                  new Claim(ClaimTypes.Email, email)
+              }),
+                  Expires = DateTime.UtcNow.AddDays(7),
+                  SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+              };
+              var token = tokenHandler.CreateToken(tokenDescriptor);
             return tokenHandler.WriteToken(token);
         }
     }
