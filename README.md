@@ -1,8 +1,7 @@
-# Let's create a README.md file for an API built with .NET, structured as a course.
-readme_content_api = """
+
 # .NET API Course
 
-## UNDER DEV 💡
+##💡💡 UNDER DEV 💡💡
 
 This API is currently under development and serves as a course example for building a robust API using .NET. The current version includes user registration and login functionalities, with a focus on implementing best practices in architecture and design.
 
